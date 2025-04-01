@@ -101,8 +101,10 @@ img{
 @import "partials/quote-section.scss";
 @import "partials/previous-searches.scss";
 @import "partials/recipes-section.scss";
-
+@import "partials/signup.scss";
 @import "partials/footer.scss";
+@import "partials/forgot-password.scss";
+@import "partials/forms.scss";
 
 .options-container{
     box-shadow: 0 5px 10px var(--shadow-color);
