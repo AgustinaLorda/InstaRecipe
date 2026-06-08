@@ -4,10 +4,8 @@
 
 This project was developed in collaboration between:
 
-Agustina Lorda Focus Area: Modeling (ML Based)
-Adeoluwa Afolabi Focus Area: Development (RSE Inspired)
-
-Focus Area: Frontend Development, Authentication, Responsive Design, User Experience
+- **Adeoluwa Afolabi** 
+- **Agustina Lorda** 
 
 InstaRecipe is a full stack web application that helps users discover recipes based on ingredients they already have at home. The platform combines AI powered recommendations with a community driven recipe sharing system, making meal planning faster, easier, and more personalized.
 
