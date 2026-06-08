@@ -4,8 +4,8 @@
 
 This project was developed in collaboration between:
 
-- **Adeoluwa Afolabi** 
-- **Agustina Lorda** 
+- **Agustina Lorda**
+- **Adeoluwa Afolabi**  
 
 InstaRecipe is a full stack web application that helps users discover recipes based on ingredients they already have at home. The platform combines AI powered recommendations with a community driven recipe sharing system, making meal planning faster, easier, and more personalized.
 
